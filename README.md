@@ -86,7 +86,7 @@ VITE_APPWRITE_BUCKET_ID=""
 
 🌐 Deployment
 
-This project is deployed on Vercel.
+This project is deployed on Vercel: https://blog-app-using-react-and-appwrite-two.vercel.app/
 
 ---
 
